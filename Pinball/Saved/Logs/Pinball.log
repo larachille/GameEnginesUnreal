@@ -1042,3 +1042,662 @@ Script Stack (0 frames):
 [2019.02.05-22.22.38:112][ 51]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_DefaultF78D539B43CBDAD2DB6C798AA61CB7F0.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
 [2019.02.05-22.22.38:153][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
 [2019.02.05-22.22.38:249][ 51]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltDataE186B3F84C6E320C71CDAAA99F65CDDF.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.25.08:272][750]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_DefaultC844D76B4CF7B870FA1672A734CA3017.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-22.25.08:315][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-22.25.08:410][750]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltDataE19242454343C392511678A2E14DD5C1.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.25.08:927][779]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-22.25.08:951][779]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.25.08:951][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-22.25.08:952][779]PIE: New page: PIE session: Minimal_Default (06.02.2019 00:25:08)
+[2019.02.05-22.25.08:952][779]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.05-22.25.08:958][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005867s)
+[2019.02.05-22.25.08:958][779]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-22.25.08:958][779]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2019.02.05-22.25.08:958][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006679s)
+[2019.02.05-22.25.09:004][779]LogInit: XAudio2 using 'Lautsprecher (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-22.25.09:012][779]LogInit: FAudioDevice initialized.
+[2019.02.05-22.25.09:046][779]LogLoad: Game class is 'GameModeBase'
+[2019.02.05-22.25.09:048][779]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.02.05-23.25.09
+[2019.02.05-22.25.09:049][779]LogWorld: Bringing up level for play took: 0.001643
+[2019.02.05-22.25.09:062][779]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,156
+[2019.02.05-22.25.09:063][779]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.25.27:586][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.25.27:586][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-22.25.27:632][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-22.25.27:633][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.25.27:674][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-22.25.27:690][887]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.02.05-22.25.36:813][432]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-22.25.36:855][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-22.25.37:733][483]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-22.25.38:755][543]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-22.25.38:782][543]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-22.25.39:290][573]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-22.25.51:169][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.26.36:841][655]BlueprintLog: New page: Compile GameController_Blueprint
+[2019.02.05-22.26.37:118][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameController_Blueprint" FILE="../../../../../../UnrealProjects/Pinball/Content/GameController_Blueprint.uasset" SILENT=true
+[2019.02.05-22.26.37:237][655]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/GameController_BlueprintF67239F34A6D8670E82FD3A9F840513A.tmp' to '../../../../../../UnrealProjects/Pinball/Content/GameController_Blueprint.uasset'
+[2019.02.05-22.26.38:647][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.26.41:015][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.26.41:406][868]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default79355D3B425397A5C26E3E8F9890F429.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-22.26.41:449][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-22.26.41:550][868]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltData75EFE1354F02FB04D91A5BAFE0487BC6.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.26.41:998][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.26.42:064][897]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-22.26.42:096][897]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.26.42:096][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-22.26.42:096][897]PIE: New page: PIE session: Minimal_Default (06.02.2019 00:26:42)
+[2019.02.05-22.26.42:096][897]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.05-22.26.42:102][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005336s)
+[2019.02.05-22.26.42:102][897]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-22.26.42:103][897]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2019.02.05-22.26.42:103][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006265s)
+[2019.02.05-22.26.42:149][897]LogInit: XAudio2 using 'Lautsprecher (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-22.26.42:155][897]LogInit: FAudioDevice initialized.
+[2019.02.05-22.26.42:189][897]LogLoad: Game class is 'GameModeBase'
+[2019.02.05-22.26.42:191][897]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.02.05-23.26.42
+[2019.02.05-22.26.42:191][897]LogWorld: Bringing up level for play took: 0.001254
+[2019.02.05-22.26.42:206][897]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,986
+[2019.02.05-22.26.42:206][897]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.27.24:139][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.27.24:139][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-22.27.24:181][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-22.27.24:181][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.27.24:223][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-22.27.24:244][405]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.02.05-22.27.34:150][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.27.34:597][  4]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_DefaultF207350A4AC64F5FD9D1DD897F3284A5.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-22.27.34:638][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-22.27.34:836][  4]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltData81A1B145425B61453F059F9D2D670E63.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.27.47:491][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.27.47:652][769]LogActorFactory: Actor Factory created Cylinder
+[2019.02.05-22.27.49:091][855]LogActorFactory: Actor Factory created Cylinder
+[2019.02.05-22.28.11:689][199]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2019.02.05-22.28.11:738][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-22.28.13:028][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.02.05-22.28.13:960][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.02.05-22.28.26:155][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.28.58:460][987]LogSlate: Window 'Select Path' being destroyed
+[2019.02.05-22.28.58:536][987]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-22.28.58:574][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PointCylinderSmall" FILE="../../../../../../UnrealProjects/Pinball/Content/PointCylinderSmall.uasset" SILENT=true
+[2019.02.05-22.28.58:599][987]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/PointCylinderSmall8CE0D189425DFC95542C648D7C7A57D4.tmp' to '../../../../../../UnrealProjects/Pinball/Content/PointCylinderSmall.uasset'
+[2019.02.05-22.28.58:631][987]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-22.28.58:635][987]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PointCylinderSmall.PointCylinderSmall
+[2019.02.05-22.29.00:432][988]LogRenderer: Reallocating scene render targets to support 912x572 Format 10 NumSamples 1 (Frame:1).
+[2019.02.05-22.29.42:873][170]BlueprintLog: New page: Compile PointCylinderSmall
+[2019.02.05-22.29.43:477][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PointCylinderSmall" FILE="../../../../../../UnrealProjects/Pinball/Content/PointCylinderSmall.uasset" SILENT=true
+[2019.02.05-22.29.43:560][170]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/PointCylinderSmallEEFDC30C4A7174492268AF8E311F657B.tmp' to '../../../../../../UnrealProjects/Pinball/Content/PointCylinderSmall.uasset'
+[2019.02.05-22.29.45:417][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.30.03:190][217]BlueprintLog: New page: Compile PointCylinderSmall
+[2019.02.05-22.30.03:452][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PointCylinderSmall" FILE="../../../../../../UnrealProjects/Pinball/Content/PointCylinderSmall.uasset" SILENT=true
+[2019.02.05-22.30.03:526][217]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/PointCylinderSmall5705A4914FC218627209CE88051977DF.tmp' to '../../../../../../UnrealProjects/Pinball/Content/PointCylinderSmall.uasset'
+[2019.02.05-22.30.05:009][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.32.54:516][836]BlueprintLog: New page: Compile PointCylinderSmall
+[2019.02.05-22.32.54:791][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PointCylinderSmall" FILE="../../../../../../UnrealProjects/Pinball/Content/PointCylinderSmall.uasset" SILENT=true
+[2019.02.05-22.32.56:320][836]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/PointCylinderSmall088E903741B306B84620F380D0B2D19E.tmp' to '../../../../../../UnrealProjects/Pinball/Content/PointCylinderSmall.uasset'
+[2019.02.05-22.32.57:321][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.33.19:344][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.33.19:851][ 75]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default7EF0DFD14BC4C09526BE89A7007F4558.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-22.33.19:894][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-22.33.20:011][ 75]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltData666AAD03416A1CEABBAC2281369CF3E3.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.33.22:969][250]Cmd: EDIT COPY
+[2019.02.05-22.33.23:235][266]Cmd: EDIT PASTE
+[2019.02.05-22.33.29:435][633]Cmd: TRANSACTION UNDO
+[2019.02.05-22.33.29:435][633]LogEditorTransaction: Undo Move Actors
+[2019.02.05-22.33.29:970][660]Cmd: TRANSACTION UNDO
+[2019.02.05-22.33.29:970][660]LogEditorTransaction: Undo Animatable Property Changed
+[2019.02.05-22.33.30:985][720]Cmd: TRANSACTION UNDO
+[2019.02.05-22.33.30:985][720]LogEditorTransaction: Undo Move Actors
+[2019.02.05-22.33.32:265][796]Cmd: TRANSACTION UNDO
+[2019.02.05-22.33.32:265][796]LogEditorTransaction: Undo Animatable Property Changed
+[2019.02.05-22.33.38:360][161]Cmd: TRANSACTION UNDO
+[2019.02.05-22.33.38:360][161]LogEditorTransaction: Undo Paste
+[2019.02.05-22.33.40:338][270]LogEditorViewport: Clicking on Actor (LMB): ColliderUpright_Blueprint_C (ColliderUpright_Blueprint)
+[2019.02.05-22.33.42:132][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.33.43:111][432]LogActorFactory: Actor Factory created Cylinder
+[2019.02.05-22.33.44:398][505]LogActorFactory: Actor Factory created Cylinder
+[2019.02.05-22.34.12:131][152]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-22.34.13:411][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.02.05-22.34.16:281][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.34.50:319][414]LogSlate: Window 'Select Path' being destroyed
+[2019.02.05-22.34.50:430][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PointCylinderMedium" FILE="../../../../../../UnrealProjects/Pinball/Content/PointCylinderMedium.uasset" SILENT=true
+[2019.02.05-22.34.50:454][414]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/PointCylinderMedium45EDD7364755325B14461E80A075654A.tmp' to '../../../../../../UnrealProjects/Pinball/Content/PointCylinderMedium.uasset'
+[2019.02.05-22.34.50:491][414]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PointCylinderMedium.PointCylinderMedium
+[2019.02.05-22.35.46:241][713]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.02.05-22.35.56:651][834]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.02.05-22.36.00:696][  9]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.02.05-22.36.00:702][  9]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.02.05-22.36.14:394][671]BlueprintLog: New page: Compile PointCylinderMedium
+[2019.02.05-22.36.14:674][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PointCylinderMedium" FILE="../../../../../../UnrealProjects/Pinball/Content/PointCylinderMedium.uasset" SILENT=true
+[2019.02.05-22.36.14:762][671]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/PointCylinderMediumF199B8E940D8A34D44B7D6A46C6B589A.tmp' to '../../../../../../UnrealProjects/Pinball/Content/PointCylinderMedium.uasset'
+[2019.02.05-22.36.33:001][568]BlueprintLog: New page: Compile PointCylinderMedium
+[2019.02.05-22.36.33:266][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PointCylinderMedium" FILE="../../../../../../UnrealProjects/Pinball/Content/PointCylinderMedium.uasset" SILENT=true
+[2019.02.05-22.36.33:349][568]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/PointCylinderMedium656633B049E143A29872239FC24B01D5.tmp' to '../../../../../../UnrealProjects/Pinball/Content/PointCylinderMedium.uasset'
+[2019.02.05-22.37.03:044][223]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default21F2079D40324D48B0B1B9837B28A3AA.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-22.37.03:089][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-22.37.03:188][223]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltData5CA14FC1489190D28E76C8A69768B326.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.37.23:433][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.37.23:612][441]LogActorFactory: Actor Factory created Cylinder
+[2019.02.05-22.37.27:517][673]LogActorFactory: Actor Factory created Cylinder
+[2019.02.05-22.37.46:091][778]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-22.37.46:128][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-22.37.47:803][876]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-22.37.52:805][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.02.05-22.37.55:136][309]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-22.37.56:491][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.02.05-22.37.57:745][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.38.33:668][541]LogSlate: Window 'Select Path' being destroyed
+[2019.02.05-22.38.33:774][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PointCylinderBig" FILE="../../../../../../UnrealProjects/Pinball/Content/PointCylinderBig.uasset" SILENT=true
+[2019.02.05-22.38.33:800][541]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/PointCylinderBig4876204C4CC92185E4BE4192D636339F.tmp' to '../../../../../../UnrealProjects/Pinball/Content/PointCylinderBig.uasset'
+[2019.02.05-22.38.33:836][541]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PointCylinderBig.PointCylinderBig
+[2019.02.05-22.38.57:724][681]BlueprintLog: New page: Compile PointCylinderBig
+[2019.02.05-22.38.57:738][681]LogBlueprint: Warning: [Compiler PointCylinderBig] Could not find a variable named "points" in 'PointCylinderBig_C'.
+Make sure 'PointCylinderBig_C' has been compiled for  Get points
+[2019.02.05-22.38.57:738][681]LogBlueprint: Warning: [Compiler PointCylinderBig] Could not find a variable named "GameController" in 'PointCylinderBig_C'.
+Make sure 'PointCylinderBig_C' has been compiled for  Get GameController
+[2019.02.05-22.38.57:739][681]LogBlueprint: Error: [Compiler PointCylinderBig] The property associated with  Points  could not be found in '/Game/PointCylinderBig.PointCylinderBig_C'
+[2019.02.05-22.38.57:739][681]LogBlueprint: Error: [Compiler PointCylinderBig] The property associated with  Game Controller  could not be found in '/Game/PointCylinderBig.PointCylinderBig_C'
+[2019.02.05-22.38.58:001][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PointCylinderBig" FILE="../../../../../../UnrealProjects/Pinball/Content/PointCylinderBig.uasset" SILENT=true
+[2019.02.05-22.38.58:089][681]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/PointCylinderBig14DF1CC74C8766185D09B6AE4D30C368.tmp' to '../../../../../../UnrealProjects/Pinball/Content/PointCylinderBig.uasset'
+[2019.02.05-22.38.58:098][681]LogBlueprint: Warning: [Compiler PointCylinderBig] [2517,74] Compile of PointCylinderBig failed. 2 Fatal Issue(s) 2 Warning(s) [in 373 ms] (/Game/PointCylinderBig.PointCylinderBig)
+[2019.02.05-22.39.02:104][873]BlueprintLog: New page: Compile PointCylinderMedium
+[2019.02.05-22.39.02:342][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PointCylinderMedium" FILE="../../../../../../UnrealProjects/Pinball/Content/PointCylinderMedium.uasset" SILENT=true
+[2019.02.05-22.39.02:424][873]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/PointCylinderMedium0556DE95467E5698CD7AF288043B4CC1.tmp' to '../../../../../../UnrealProjects/Pinball/Content/PointCylinderMedium.uasset'
+[2019.02.05-22.39.18:123][544]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.02.05-22.39.20:515][642]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.02.05-22.39.20:523][642]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.02.05-22.39.31:550][ 72]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.02.05-22.39.33:863][167]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.02.05-22.39.33:878][167]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.02.05-22.39.37:988][354]BlueprintLog: New page: Compile PointCylinderBig
+[2019.02.05-22.39.38:270][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PointCylinderBig" FILE="../../../../../../UnrealProjects/Pinball/Content/PointCylinderBig.uasset" SILENT=true
+[2019.02.05-22.39.38:351][354]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/PointCylinderBig6980D5AF42E728B7E45848A118810CA3.tmp' to '../../../../../../UnrealProjects/Pinball/Content/PointCylinderBig.uasset'
+[2019.02.05-22.39.47:214][776]BlueprintLog: New page: Compile PointCylinderBig
+[2019.02.05-22.39.47:491][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PointCylinderBig" FILE="../../../../../../UnrealProjects/Pinball/Content/PointCylinderBig.uasset" SILENT=true
+[2019.02.05-22.39.47:578][776]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/PointCylinderBigD9B2F9B74475952B5A19D9B375961713.tmp' to '../../../../../../UnrealProjects/Pinball/Content/PointCylinderBig.uasset'
+[2019.02.05-22.39.57:165][275]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default029DA6BB467F13B81E4155B734B39EA3.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-22.39.57:211][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-22.39.57:319][275]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltDataFEE9E9EF44F6B166EE9CC2BC773C28A2.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.40.01:082][498]LogEditorViewport: Clicking on Actor (LMB): presentBrick_Blueprint_C (presentPoints_Blueprint)
+[2019.02.05-22.40.07:953][902]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-22.40.09:183][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (presentBalls)
+[2019.02.05-22.40.11:381][101]Cmd: EDIT COPY
+[2019.02.05-22.40.12:107][144]Cmd: EDIT PASTE
+[2019.02.05-22.40.17:956][490]LogEditorViewport: Clicking on Actor (LMB): presentBrick_Blueprint_C (presentPoints_Blueprint)
+[2019.02.05-22.40.21:467][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (presentBalls2)
+[2019.02.05-22.40.25:769][950]Cmd: DELETE
+[2019.02.05-22.40.25:769][950]Cmd: ACTOR DELETE
+[2019.02.05-22.40.25:774][950]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-22.40.25:822][950]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2019.02.05-22.40.30:034][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.40.30:474][206]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default432C51BF446741208F54E282B8AD81B9.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-22.40.30:516][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-22.40.30:616][206]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltData2EF2F73F4083C6547B179A9926EC9170.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.40.31:013][228]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-22.40.31:049][228]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.40.31:049][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-22.40.31:049][228]PIE: New page: PIE session: Minimal_Default (06.02.2019 00:40:31)
+[2019.02.05-22.40.31:049][228]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.05-22.40.31:055][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005603s)
+[2019.02.05-22.40.31:055][228]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-22.40.31:056][228]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2019.02.05-22.40.31:056][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006584s)
+[2019.02.05-22.40.31:106][228]LogInit: XAudio2 using 'Lautsprecher (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-22.40.31:113][228]LogInit: FAudioDevice initialized.
+[2019.02.05-22.40.31:145][228]LogLoad: Game class is 'GameModeBase'
+[2019.02.05-22.40.31:147][228]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.02.05-23.40.31
+[2019.02.05-22.40.31:147][228]LogWorld: Bringing up level for play took: 0.001667
+[2019.02.05-22.40.31:162][228]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,057
+[2019.02.05-22.40.31:162][228]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.41.01:534][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.41.01:534][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-22.41.01:586][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-22.41.01:587][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.41.01:633][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-22.41.01:650][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.02.05-22.41.05:624][279]LogEditorViewport: Clicking on Actor (LMB): PointCylinderMedium_C (PointCylinderMedium)
+[2019.02.05-22.41.08:248][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.41.15:902][892]LogEditorViewport: Clicking on Actor (LMB): PointCylinderSmall_C (PointCylinderSmall)
+[2019.02.05-22.41.17:343][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.41.20:800][182]LogEditorViewport: Clicking on Actor (LMB): PointCylinderBig_C (PointCylinderBig)
+[2019.02.05-22.41.22:127][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.41.27:097][556]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-22.41.27:892][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.41.28:297][605]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default00CB9C8540A85404CCDC29A4F3732EB5.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-22.41.28:340][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-22.41.28:438][605]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltDataC5DBD0FC4AEECE4F212EAE821772B6ED.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.41.34:635][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.41.46:200][307]BlueprintLog: New page: Compile UIController
+[2019.02.05-22.41.46:348][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIController" FILE="../../../../../../UnrealProjects/Pinball/Content/UIController.uasset" SILENT=true
+[2019.02.05-22.41.46:438][307]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/UIControllerFAC5F52545153955BD4D02BA7FBAB084.tmp' to '../../../../../../UnrealProjects/Pinball/Content/UIController.uasset'
+[2019.02.05-22.41.49:851][447]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_DefaultF47451C2419C8F2131C108A2DE86938E.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-22.41.49:893][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-22.41.49:990][447]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltDataD3F4CF49478F4D689F41A6A39AFD4E98.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.41.50:541][479]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-22.41.50:568][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.41.50:568][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-22.41.50:568][479]PIE: New page: PIE session: Minimal_Default (06.02.2019 00:41:50)
+[2019.02.05-22.41.50:568][479]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.05-22.41.50:574][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005377s)
+[2019.02.05-22.41.50:574][479]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-22.41.50:574][479]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2019.02.05-22.41.50:574][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006051s)
+[2019.02.05-22.41.50:621][479]LogInit: XAudio2 using 'Lautsprecher (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-22.41.50:627][479]LogInit: FAudioDevice initialized.
+[2019.02.05-22.41.50:656][479]LogLoad: Game class is 'GameModeBase'
+[2019.02.05-22.41.50:658][479]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.02.05-23.41.50
+[2019.02.05-22.41.50:659][479]LogWorld: Bringing up level for play took: 0.001782
+[2019.02.05-22.41.50:673][479]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,545
+[2019.02.05-22.41.50:673][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.42.08:221][530]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.42.08:222][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-22.42.08:273][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-22.42.08:273][530]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.42.08:321][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-22.42.08:343][531]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.02.05-22.42.22:823][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.42.23:236][402]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default320684674E85F6FE2C6BE299AABCF095.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-22.42.23:281][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-22.42.23:381][402]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltDataB7C1F8334D1608D283D86B85E84DC0F5.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.42.25:537][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2019.02.05-22.42.30:435][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.42.44:825][299]LogSlate: Window 'Pick Physical Material Class' being destroyed
+[2019.02.05-22.42.58:831][125]LogAssetEditorManager: Opening Asset editor for PhysicalMaterial /Game/Materials/bouncyCorner.bouncyCorner
+[2019.02.05-22.44.02:009][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/bouncyCorner" FILE="../../../../../../UnrealProjects/Pinball/Content/Materials/bouncyCorner.uasset" SILENT=true
+[2019.02.05-22.44.02:019][562]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/bouncyCornerFBD655A544094B49D9DE8E980570A032.tmp' to '../../../../../../UnrealProjects/Pinball/Content/Materials/bouncyCorner.uasset'
+[2019.02.05-22.44.26:601][997]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default960EAC4C4AAAD14E2C5F7698CEDE4BD4.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-22.44.26:643][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-22.44.26:740][997]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltData29B94AAC47B894A5DFD8EF92072E0C32.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.44.27:647][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-22.44.27:671][ 49]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.44.27:671][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-22.44.27:671][ 49]PIE: New page: PIE session: Minimal_Default (06.02.2019 00:44:27)
+[2019.02.05-22.44.27:671][ 49]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.05-22.44.27:677][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005465s)
+[2019.02.05-22.44.27:677][ 49]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-22.44.27:678][ 49]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2019.02.05-22.44.27:678][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006331s)
+[2019.02.05-22.44.27:731][ 49]LogInit: XAudio2 using 'Lautsprecher (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-22.44.27:738][ 49]LogInit: FAudioDevice initialized.
+[2019.02.05-22.44.27:767][ 49]LogLoad: Game class is 'GameModeBase'
+[2019.02.05-22.44.27:770][ 49]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.02.05-23.44.27
+[2019.02.05-22.44.27:770][ 49]LogWorld: Bringing up level for play took: 0.001745
+[2019.02.05-22.44.27:785][ 49]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,565
+[2019.02.05-22.44.27:785][ 49]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.44.40:936][833]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.44.40:937][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-22.44.40:985][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-22.44.40:985][833]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.44.41:030][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-22.44.41:046][834]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.02.05-22.44.42:352][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2019.02.05-22.44.45:288][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.44.49:269][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/bouncyCorner" FILE="../../../../../../UnrealProjects/Pinball/Content/Materials/bouncyCorner.uasset" SILENT=true
+[2019.02.05-22.44.49:330][304]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/bouncyCorner7379C96440993574BD92089DF5487EE0.tmp' to '../../../../../../UnrealProjects/Pinball/Content/Materials/bouncyCorner.uasset'
+[2019.02.05-22.44.52:205][449]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default04ADCDCC4CE31DCABD101682EC1407AB.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-22.44.52:248][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-22.44.52:350][449]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltData2F4C8C6D463FD654C360E6AB7BBAB3B0.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.44.55:612][642]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-22.44.55:637][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.44.55:638][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-22.44.55:638][642]PIE: New page: PIE session: Minimal_Default (06.02.2019 00:44:55)
+[2019.02.05-22.44.55:638][642]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.05-22.44.55:643][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005458s)
+[2019.02.05-22.44.55:644][642]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-22.44.55:644][642]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2019.02.05-22.44.55:644][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006163s)
+[2019.02.05-22.44.55:694][642]LogInit: XAudio2 using 'Lautsprecher (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-22.44.55:700][642]LogInit: FAudioDevice initialized.
+[2019.02.05-22.44.55:728][642]LogLoad: Game class is 'GameModeBase'
+[2019.02.05-22.44.55:730][642]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.02.05-23.44.55
+[2019.02.05-22.44.55:730][642]LogWorld: Bringing up level for play took: 0.001325
+[2019.02.05-22.44.55:744][642]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,526
+[2019.02.05-22.44.55:745][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.45.19:637][ 73]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.45.19:638][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-22.45.19:685][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-22.45.19:686][ 73]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-22.45.19:735][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-22.45.19:750][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.02.05-22.45.48:780][812]LogEditorViewport: Clicking on Actor (LMB): presentBrick_Blueprint_C (presentPoints_Blueprint)
+[2019.02.05-22.45.49:756][867]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-22.45.50:594][915]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-22.46.08:743][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-22.46.09:184][  4]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_DefaultAC6FC3E044E3A3DE2CAE3AA44519E363.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-22.46.09:235][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-22.46.09:344][  4]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltDataA0D219BE438BCF222F3B469470338F0D.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-22.46.16:759][414]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.05-22.46.16:855][414]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.05-22.46.16:959][414]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.05-22.46.17:117][414]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.05-22.46.17:179][414]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.05-22.46.17:238][414]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.05-22.46.17:291][414]LogSlate: Window 'bouncyCorner - Generic Asset Editor' being destroyed
+[2019.02.05-22.46.17:298][414]LogSlate: Window 'Pinball - Unreal Editor' being destroyed
+[2019.02.05-22.46.17:298][414]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.05-22.46.17:658][415]Cmd: QUIT_EDITOR
+[2019.02.05-22.46.18:664][415]LogExit: Preparing to exit.
+[2019.02.05-22.46.19:942][415]LogExit: Editor shut down
+[2019.02.05-22.46.19:943][415]LogExit: Transaction tracking system shut down
+[2019.02.05-22.46.20:376][415]LogExit: Object subsystem successfully closed.
+[2019.02.05-22.46.20:402][415]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.05-22.46.20:410][415]LogD3D11RHI: Shutdown
+[2019.02.05-22.46.20:410][415]LogD3D11RHI: CleanupD3DDevice
+[2019.02.05-22.46.20:460][415]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.05-22.46.20:521][415]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2019.02.05-22.46.20:521][415]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2019.02.05-22.46.20:531][415]LogModuleManager: Shutting down and abandoning module SequencerWidgets (626)
+[2019.02.05-22.46.20:531][415]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2019.02.05-22.46.20:531][415]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.02.05-22.46.20:531][415]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.02.05-22.46.20:555][415]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.02.05-22.46.20:572][415]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.02.05-22.46.20:572][415]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.02.05-22.46.20:572][415]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.02.05-22.46.20:572][415]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.02.05-22.46.20:572][415]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.02.05-22.46.20:572][415]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.02.05-22.46.20:572][415]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.02.05-22.46.20:572][415]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.02.05-22.46.20:572][415]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.02.05-22.46.20:572][415]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.02.05-22.46.20:572][415]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.02.05-22.46.20:572][415]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.02.05-22.46.20:572][415]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.02.05-22.46.20:573][415]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.02.05-22.46.20:574][415]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.02.05-22.46.20:574][415]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.02.05-22.46.20:574][415]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.02.05-22.46.20:574][415]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.02.05-22.46.20:574][415]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.02.05-22.46.20:574][415]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.02.05-22.46.20:574][415]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.02.05-22.46.20:785][415]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.02.05-22.46.20:786][415]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.02.05-22.46.20:787][415]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.02.05-22.46.20:787][415]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.02.05-22.46.20:787][415]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.02.05-22.46.20:787][415]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.02.05-22.46.20:787][415]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.02.05-22.46.20:787][415]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.02.05-22.46.20:787][415]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.02.05-22.46.20:850][415]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.02.05-22.46.20:850][415]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.02.05-22.46.20:850][415]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.02.05-22.46.20:850][415]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.02.05-22.46.20:850][415]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.02.05-22.46.20:850][415]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.02.05-22.46.20:850][415]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.02.05-22.46.20:850][415]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.02.05-22.46.20:850][415]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.02.05-22.46.20:850][415]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.02.05-22.46.20:858][415]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.02.05-22.46.20:859][415]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.02.05-22.46.20:860][415]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.02.05-22.46.20:860][415]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.02.05-22.46.20:860][415]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.02.05-22.46.20:860][415]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.02.05-22.46.20:860][415]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.02.05-22.46.20:860][415]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.02.05-22.46.20:861][415]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.02.05-22.46.20:864][415]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.02.05-22.46.20:920][415]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.02.05-22.46.20:925][415]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.02.05-22.46.20:926][415]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.02.05-22.46.21:028][415]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.02.05-22.46.21:128][415]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.02.05-22.46.21:128][415]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.02.05-22.46.21:128][415]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.02.05-22.46.21:128][415]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.02.05-22.46.21:128][415]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.02.05-22.46.21:128][415]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.02.05-22.46.21:128][415]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.02.05-22.46.21:130][415]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.02.05-22.46.21:130][415]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.02.05-22.46.21:131][415]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.02.05-22.46.21:131][415]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.02.05-22.46.21:132][415]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.02.05-22.46.21:142][415]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.02.05-22.46.21:143][415]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.02.05-22.46.21:143][415]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.02.05-22.46.21:143][415]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.02.05-22.46.21:143][415]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.02.05-22.46.21:143][415]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.02.05-22.46.21:143][415]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.02.05-22.46.21:146][415]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.02.05-22.46.21:154][415]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.02.05-22.46.21:155][415]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.02.05-22.46.21:155][415]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.02.05-22.46.21:158][415]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.02.05-22.46.21:159][415]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.02.05-22.46.21:166][415]LogDerivedDataCache: Shutdown
+[2019.02.05-22.46.21:166][415]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.02.05-22.46.21:166][415]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.02.05-22.46.21:166][415]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.02.05-22.46.21:166][415]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.02.05-22.46.21:166][415]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.02.05-22.46.21:166][415]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.02.05-22.46.21:166][415]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.02.05-22.46.21:166][415]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.02.05-22.46.21:166][415]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.02.05-22.46.21:167][415]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.02.05-22.46.21:167][415]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.02.05-22.46.21:167][415]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.02.05-22.46.21:167][415]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.02.05-22.46.21:167][415]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.02.05-22.46.21:167][415]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.02.05-22.46.21:167][415]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.02.05-22.46.21:167][415]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.02.05-22.46.21:167][415]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.02.05-22.46.21:177][415]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.02.05-22.46.21:177][415]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.02.05-22.46.21:177][415]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.02.05-22.46.21:177][415]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.02.05-22.46.21:177][415]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.02.05-22.46.21:183][415]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.02.05-22.46.21:183][415]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.02.05-22.46.21:189][415]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.02.05-22.46.21:189][415]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.02.05-22.46.21:232][415]LogHMD: Freeing OpenVRDLLHandle.
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.02.05-22.46.21:232][415]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.02.05-22.46.21:233][415]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.02.05-22.46.21:233][415]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.02.05-22.46.21:261][415]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.02.05-22.46.21:261][415]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.05-22.46.21:261][415]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B790C0482-4704-E54A-6A2D-A19DB2F89BAA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=9f336627408873493ab25f98ac8a4ca6%7C9ecc5037703149ff92239f44be010919%7C76da6c69-324c-4a1c-927b-d482c08959da&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.05-22.46.21:277][415]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.02.05-22.46.21:281][415]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.02.05-22.46.21:281][415]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.02.05-22.46.21:281][415]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.02.05-22.46.21:281][415]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.02.05-22.46.21:281][415]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.02.05-22.46.21:281][415]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.02.05-22.46.21:281][415]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.02.05-22.46.21:281][415]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.02.05-22.46.21:281][415]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.02.05-22.46.21:281][415]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.02.05-22.46.21:282][415]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.05-22.46.21:282][415]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.05-22.46.21:282][415]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.05-22.46.21:282][415]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.05-22.46.21:282][415]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.05-22.46.21:282][415]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.05-22.46.21:282][415]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.05-22.46.21:285][415]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.05-22.46.21:285][415]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.05-22.46.21:285][415]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.05-22.46.21:285][415]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.05-22.46.21:285][415]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.05-22.46.21:285][415]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.05-22.46.21:285][415]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.05-22.46.21:285][415]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.05-22.46.21:285][415]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.05-22.46.21:285][415]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.05-22.46.21:285][415]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.05-22.46.21:291][415]LogExit: Exiting.
+[2019.02.05-22.46.21:299][415]Log file closed, 02/05/19 23:46:21
