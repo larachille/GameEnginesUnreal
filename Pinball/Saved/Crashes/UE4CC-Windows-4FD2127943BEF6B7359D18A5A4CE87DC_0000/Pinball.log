@@ -1,0 +1,872 @@
+﻿Log file open, 02/05/19 13:13:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pinball
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.204909
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.369s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.091s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.02.05-12.13.50:232][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.02.05-12.13.50:233][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.13.50:233][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.05-12.13.50:234][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.13.50:234][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.13.50:236][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.05-12.13.50:236][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.05-12.13.50:237][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.05-12.13.50:237][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.05-12.13.50:237][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.05-12.13.50:372][  0]LogHAL: Display: Platform has ~ 8 GB [8451756032 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.05-12.13.50:372][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.05-12.13.50:372][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.05-12.13.50:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.05-12.13.50:373][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.05-12.13.50:373][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.05-12.13.50:374][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProjects/Pinball/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.13.50:374][  0]LogInit: Computer: DESKTOP-R5K993P
+[2019.02.05-12.13.50:374][  0]LogInit: User: LaraChille
+[2019.02.05-12.13.50:374][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.05-12.13.50:374][  0]LogInit: High frequency timer resolution =2.437497 MHz
+[2019.02.05-12.13.50:374][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.02.05-12.13.50:374][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.05-12.13.50:374][  0]LogMemory: Process Physical Memory: 102.42 MB used, 102.42 MB peak
+[2019.02.05-12.13.50:374][  0]LogMemory: Process Virtual Memory: 84.64 MB used, 84.64 MB peak
+[2019.02.05-12.13.50:374][  0]LogMemory: Physical Memory: 4162.59 MB used,  3897.63 MB free, 8060.22 MB total
+[2019.02.05-12.13.50:374][  0]LogMemory: Virtual Memory: 4628.08 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.02.05-12.13.50:399][  0]LogInit: Using OS detected language (de-DE).
+[2019.02.05-12.13.50:399][  0]LogInit: Using OS detected locale (de-DE).
+[2019.02.05-12.13.50:400][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so the 'de' localization will be used.
+[2019.02.05-12.13.50:404][  0]LogStreaming: Display: Took  0.006s to InitEngineTextLocalization.
+[2019.02.05-12.13.50:404][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.05-12.13.50:437][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.05-12.13.50:437][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.05-12.13.50:791][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.05-12.13.50:791][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.05-12.13.50:839][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.02.05-12.13.50:839][  0]LogD3D11RHI:       4053/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.05-12.13.50:847][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.02.05-12.13.50:847][  0]LogD3D11RHI:       128/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.05-12.13.50:850][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.05-12.13.50:850][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.05-12.13.50:850][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.05-12.13.50:880][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.05-12.13.50:880][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.02.05-12.13.50:880][  0]LogWindows: EnumDisplayDevices:
+[2019.02.05-12.13.50:880][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.02.05-12.13.50:881][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.02.05-12.13.50:881][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.02.05-12.13.50:881][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.02.05-12.13.50:881][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.02.05-12.13.50:881][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.02.05-12.13.50:881][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.02.05-12.13.50:881][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.02.05-12.13.50:906][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.05-12.13.50:917][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.02.05-12.13.51:273][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.05-12.13.51:289][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.05-12.13.51:305][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.05-12.13.51:320][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.05-12.13.51:337][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.05-12.13.51:353][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.05-12.13.51:369][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.05-12.13.51:385][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.05-12.13.51:393][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.13.51:492][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.05-12.13.51:557][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.05-12.13.51:557][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.05-12.13.51:585][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.05-12.13.51:585][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.05-12.13.51:601][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.05-12.13.51:615][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.05-12.13.51:629][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.05-12.13.51:645][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.05-12.13.51:699][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.05-12.13.51:699][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.05-12.13.51:699][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.05-12.13.51:774][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../../../UnrealProjects/Pinball/Intermediate/Shaders/WorkingDirectory/11116/).
+[2019.02.05-12.13.51:775][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lara Chille/AppData/Local/Temp/UnrealShaderWorkingDir/E1F30ABF47D4477E0624A8867B6238B2/'.
+[2019.02.05-12.13.51:777][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.05-12.13.51:777][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.05-12.13.51:777][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.05-12.13.52:368][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.05-12.13.52:437][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Lara Chille/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.05-12.13.52:437][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lara Chille/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.05-12.13.52:438][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UnrealProjects/Pinball/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.05-12.13.52:438][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.05-12.13.52:438][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UnrealProjects/Pinball/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.05-12.13.52:438][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.05-12.13.52:456][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.05-12.13.52:456][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.05-12.13.52:456][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.05-12.13.52:468][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lara Chille/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.05-12.13.52:468][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.05-12.13.52:468][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.05-12.13.52:494][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.05-12.13.52:496][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.05-12.13.52:496][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.05-12.13.52:609][  0]LogAssetRegistry: FAssetRegistry took 0.0360 seconds to start up
+[2019.02.05-12.13.52:987][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.05-12.13.53:169][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.05-12.13.53:173][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.05-12.13.53:173][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.05-12.13.53:173][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.05-12.13.53:173][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.05-12.13.53:189][  0]LogNetVersion: Pinball 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 962427965)
+[2019.02.05-12.13.53:909][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.197553 seconds
+[2019.02.05-12.13.53:916][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.05-12.13.53:916][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.05-12.13.53:916][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.05-12.13.54:996][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.05-12.13.55:011][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.05-12.13.55:938][  0]SourceControl: Source control is disabled
+[2019.02.05-12.13.55:938][  0]SourceControl: Source control is disabled
+[2019.02.05-12.13.55:940][  0]SourceControl: Source control is disabled
+[2019.02.05-12.13.55:941][  0]SourceControl: Source control is disabled
+[2019.02.05-12.13.56:148][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.05-12.13.56:237][  0]LogOcInput: OculusInput pre-init called
+[2019.02.05-12.13.56:384][  0]LogEngine: Initializing Engine...
+[2019.02.05-12.13.56:385][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.05-12.13.56:387][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.05-12.13.56:387][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.05-12.13.56:387][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.05-12.13.56:388][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.05-12.13.56:669][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.05-12.13.56:686][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.05-12.13.56:699][  0]LogInit: XAudio2 using 'Lautsprecher (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-12.13.56:708][  0]LogInit: FAudioDevice initialized.
+[2019.02.05-12.13.56:708][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.05-12.13.56:790][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Lara Chille/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.05-12.13.56:814][  0]LogInit: Texture streaming: Enabled
+[2019.02.05-12.13.56:833][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.05-12.13.56:859][  0]LogInit: Transaction tracking system initialized
+[2019.02.05-12.13.56:886][  0]BlueprintLog: New page: Editor Load
+[2019.02.05-12.13.56:971][  0]LocalizationService: Localization service is disabled
+[2019.02.05-12.13.57:779][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/Pinball/Content/' took 0.02s
+[2019.02.05-12.13.57:779][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.05-12.13.57:779][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.05-12.13.57:779][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.05-12.13.57:779][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.05-12.13.57:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.05-12.13.57:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.05-12.13.57:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.05-12.13.57:936][  0]SourceControl: Source control is disabled
+[2019.02.05-12.13.57:936][  0]Cmd: MAP LOAD FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.05-12.13.57:937][  0]LightingResults: New page: Lighting Build
+[2019.02.05-12.13.57:939][  0]MapCheck: New page: Map Check
+[2019.02.05-12.13.57:939][  0]LightingResults: New page: Lighting Build
+[2019.02.05-12.13.58:798][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-12.13.58:835][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.05-12.13.58:864][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.05-12.13.58:864][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,297ms to complete.
+[2019.02.05-12.13.58:864][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.928
+[2019.02.05-12.13.59:342][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-12.13.59:352][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-12.13.59:360][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-12.13.59:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-12.13.59:397][  0]LogCollectionManager: Loaded 0 collections in 0.002518 seconds
+[2019.02.05-12.13.59:509][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/Pinball/Saved/Collections/' took 0.01s
+[2019.02.05-12.13.59:509][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/Pinball/Content/Developers/LaraChille/Collections/' took 0.01s
+[2019.02.05-12.13.59:509][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/Pinball/Content/Collections/' took 0.01s
+[2019.02.05-12.13.59:509][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.05-12.13.59:519][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2651 classes and 620 folders.
+[2019.02.05-12.13.59:556][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.05-12.13.59:620][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.13.59:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.13.59:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.13.59:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.13.59:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.13.59:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.13.59:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.13.59:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.13.59:862][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.13.59:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.13.59:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.13.59:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.13.59:947][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.13.59:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.14.00:010][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.14.00:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.14.00:080][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.14.00:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.14.00:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.14.00:155][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.14.00:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.14.00:231][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.14.00:272][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.14.00:289][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.14.00:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.14.00:329][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.14.02:086][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.05-12.14.02:131][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.02.05-12.14.02:980][  0]LogSlate: Took 0.000351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.05-12.14.02:983][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.05-12.14.03:025][  0]LogSlate: Took 0.012090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.05-12.14.03:389][  0]LogRenderer: Reallocating scene render targets to support 848x460 Format 10 NumSamples 1 (Frame:1).
+[2019.02.05-12.14.03:535][  0]LogSlate: Took 0.022148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.05-12.14.03:745][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.05-12.14.03:745][  0]LogLoad: (Engine Initialization) Total time: 16.94 seconds
+[2019.02.05-12.14.03:746][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.05-12.14.03:764][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.05-12.14.03:878][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.05-12.14.04:027][  2]LogAssetRegistry: Asset discovery search completed in 11.4410 seconds
+[2019.02.05-12.14.04:029][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.05-12.14.04:029][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2019.02.05-12.14.36:877][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.02.05-12.14.59:975][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-12.15.41:756][718]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-12.15.42:920][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.02.05-12.15.50:632][241]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-12.15.52:185][331]LogEditorViewport: Clicking on Actor (LMB): ColliderUpright_Blueprint_C (ColliderUpright_Blueprint)
+[2019.02.05-12.15.57:284][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.02.05-12.16.00:116][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-12.16.16:808][787]LogSlate: Window 'Select Path' being destroyed
+[2019.02.05-12.16.17:011][787]LogSlate: Took 0.000408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.05-12.16.17:060][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BrickPresent_Blueprint" FILE="../../../../../../UnrealProjects/Pinball/Content/BrickPresent_Blueprint.uasset" SILENT=true
+[2019.02.05-12.16.17:121][787]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/BrickPresent_Blueprint76EB718F4D7597D543C2FBBDEAD17F4F.tmp' to '../../../../../../UnrealProjects/Pinball/Content/BrickPresent_Blueprint.uasset'
+[2019.02.05-12.16.17:201][787]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BrickPresent_Blueprint.BrickPresent_Blueprint
+[2019.02.05-12.16.18:417][787]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.02.05-12.16.20:311][788]LogRenderer: Reallocating scene render targets to support 880x460 Format 10 NumSamples 1 (Frame:1).
+[2019.02.05-12.16.24:841][  1]LogRenderer: Reallocating scene render targets to support 912x572 Format 10 NumSamples 1 (Frame:211).
+[2019.02.05-12.16.27:670][123]LogSlate: Took 0.104562 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.05-12.17.00:360][744]LogSlate: Took 0.020253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.05-12.17.16:526][600]BlueprintLog: New page: Compile BrickPresent_Blueprint
+[2019.02.05-12.17.16:943][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BrickPresent_Blueprint" FILE="../../../../../../UnrealProjects/Pinball/Content/BrickPresent_Blueprint.uasset" SILENT=true
+[2019.02.05-12.17.17:330][600]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/BrickPresent_Blueprint19E3179D451C177306612AB22FAD1AE5.tmp' to '../../../../../../UnrealProjects/Pinball/Content/BrickPresent_Blueprint.uasset'
+[2019.02.05-12.18.41:326][788]LogSlate: Took 0.011216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.05-12.19.31:497][361]BlueprintLog: New page: Compile BrickPresent_Blueprint
+[2019.02.05-12.19.31:738][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BrickPresent_Blueprint" FILE="../../../../../../UnrealProjects/Pinball/Content/BrickPresent_Blueprint.uasset" SILENT=true
+[2019.02.05-12.19.33:249][361]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/BrickPresent_Blueprint008995EC4A9E804219B9F5A639CB7382.tmp' to '../../../../../../UnrealProjects/Pinball/Content/BrickPresent_Blueprint.uasset'
+[2019.02.05-12.19.36:885][557]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-12.19.36:912][557]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2019.02.05-12.19.38:710][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-12.19.39:073][660]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_DefaultAC5DA3044AB56AF67D08C9A0B5A99C45.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-12.19.39:124][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-12.19.39:224][660]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltData6F2B5C344524D9226FCB8484DF55FAA9.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-12.19.39:781][693]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-12.19.39:807][693]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-12.19.39:807][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-12.19.39:903][693]PIE: New page: PIE session: Minimal_Default (05.02.2019 14:19:39)
+[2019.02.05-12.19.39:926][693]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.05-12.19.39:931][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004789s)
+[2019.02.05-12.19.39:932][693]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-12.19.39:932][693]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2019.02.05-12.19.39:932][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006063s)
+[2019.02.05-12.19.39:973][693]LogInit: XAudio2 using 'Lautsprecher (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-12.19.39:981][693]LogInit: FAudioDevice initialized.
+[2019.02.05-12.19.40:039][693]LogLoad: Game class is 'GameModeBase'
+[2019.02.05-12.19.40:053][693]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.02.05-13.19.40
+[2019.02.05-12.19.40:054][693]LogWorld: Bringing up level for play took: 0.001338
+[2019.02.05-12.19.40:128][693]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.02.05-12.19.40:164][693]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,945
+[2019.02.05-12.19.40:164][693]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-12.19.52:447][417]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-12.19.52:448][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-12.19.52:485][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-12.19.52:486][417]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-12.19.52:520][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-12.19.52:544][418]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.02.05-12.19.54:455][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-12.19.54:519][536]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-12.19.54:543][536]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-12.19.54:544][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-12.19.54:544][536]PIE: New page: PIE session: Minimal_Default (05.02.2019 14:19:54)
+[2019.02.05-12.19.54:544][536]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.05-12.19.54:548][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004418s)
+[2019.02.05-12.19.54:549][536]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-12.19.54:549][536]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2019.02.05-12.19.54:549][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005201s)
+[2019.02.05-12.19.54:588][536]LogInit: XAudio2 using 'Lautsprecher (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-12.19.54:593][536]LogInit: FAudioDevice initialized.
+[2019.02.05-12.19.54:627][536]LogLoad: Game class is 'GameModeBase'
+[2019.02.05-12.19.54:628][536]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.02.05-13.19.54
+[2019.02.05-12.19.54:628][536]LogWorld: Bringing up level for play took: 0.001023
+[2019.02.05-12.19.54:642][536]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,577
+[2019.02.05-12.19.54:642][536]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-12.20.04:087][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-12.20.04:172][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-12.20.04:172][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-12.20.04:215][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-12.20.04:216][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-12.20.04:252][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-12.20.04:286][109]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.02.05-12.23.37:905][517]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameController_Blueprint.GameController_Blueprint
+[2019.02.05-12.25.10:468][748]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2019.02.05-12.26.21:832][230]BlueprintLog: New page: Compile Minimal_Default
+[2019.02.05-12.26.23:628][230]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_DefaultFCCE8B0C41DDA4E02AB4989AEF9116CF.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-12.26.23:668][230]LogFileHelpers: Saving map 'Minimal_Default' took 1.629
+[2019.02.05-12.26.36:899][927]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UIController.UIController
+[2019.02.05-12.36.22:181][268]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.050
+[2019.02.05-12.36.22:522][268]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UIController] ([1] browsable assets)...
+[2019.02.05-12.36.22:523][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIController]
+[2019.02.05-12.36.22:523][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIController" FILE="../../../../../../UnrealProjects/Pinball/Saved/Autosaves/Game/UIController_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.02.05-12.36.22:583][268]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/UIController_Auto161026B3E4F351C3CFDEA45B668DF017D.tmp' to '../../../../../../UnrealProjects/Pinball/Saved/Autosaves/Game/UIController_Auto1.uasset'
+[2019.02.05-12.36.22:610][268]LogFileHelpers: Auto-saving content packages took 0.428
+[2019.02.05-13.00.32:243][784]BlueprintLog: New page: Compile UIController
+[2019.02.05-13.00.32:360][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIController" FILE="../../../../../../UnrealProjects/Pinball/Content/UIController.uasset" SILENT=true
+[2019.02.05-13.00.32:414][784]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/UIController0BA3B80E4C0A9A90EF6677BC726D8F1A.tmp' to '../../../../../../UnrealProjects/Pinball/Content/UIController.uasset'
+[2019.02.05-13.04.47:783][730]LogSlate: Took 1.518459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.02.05-13.05.33:904][ 81]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_Auto280431BEF43625EEDCFF3B2B68282333C.tmp' to '../../../../../../UnrealProjects/Pinball/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2019.02.05-13.05.33:908][ 81]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 1.736
+[2019.02.05-13.05.33:908][ 81]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.736
+[2019.02.05-13.05.33:911][ 81]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameController_Blueprint] ([1] browsable assets)...
+[2019.02.05-13.05.33:911][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameController_Blueprint]
+[2019.02.05-13.05.33:911][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameController_Blueprint" FILE="../../../../../../UnrealProjects/Pinball/Saved/Autosaves/Game/GameController_Blueprint_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.02.05-13.05.33:982][ 81]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/GameController_Blueprint_Auto28FD49CED4EB18B3474643599585A4D40.tmp' to '../../../../../../UnrealProjects/Pinball/Saved/Autosaves/Game/GameController_Blueprint_Auto2.uasset'
+[2019.02.05-13.05.33:984][ 81]LogFileHelpers: Auto-saving content packages took 0.073
+[2019.02.05-13.19.44:945][985]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.043
+[2019.02.05-13.19.44:947][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameController_Blueprint] ([1] browsable assets)...
+[2019.02.05-13.19.44:947][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameController_Blueprint]
+[2019.02.05-13.19.44:947][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameController_Blueprint" FILE="../../../../../../UnrealProjects/Pinball/Saved/Autosaves/Game/GameController_Blueprint_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.02.05-13.19.45:023][985]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/GameController_Blueprint_Auto351B309DF41426B5D3F9D619FCC8DC3D9.tmp' to '../../../../../../UnrealProjects/Pinball/Saved/Autosaves/Game/GameController_Blueprint_Auto3.uasset'
+[2019.02.05-13.19.45:025][985]LogFileHelpers: Auto-saving content packages took 0.078
+[2019.02.05-13.23.17:660][719]BlueprintLog: New page: Compile GameController_Blueprint
+[2019.02.05-13.23.17:907][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameController_Blueprint" FILE="../../../../../../UnrealProjects/Pinball/Content/GameController_Blueprint.uasset" SILENT=true
+[2019.02.05-13.23.17:968][719]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/GameController_BlueprintF95FB6C6476CC367DAC0538A407335BD.tmp' to '../../../../../../UnrealProjects/Pinball/Content/GameController_Blueprint.uasset'
+[2019.02.05-13.24.59:932][  9]LogEditorTransaction: Undo Delete current selection
+[2019.02.05-13.28.20:362][330]BlueprintLog: New page: Compile GameController_Blueprint
+[2019.02.05-13.28.22:088][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameController_Blueprint" FILE="../../../../../../UnrealProjects/Pinball/Content/GameController_Blueprint.uasset" SILENT=true
+[2019.02.05-13.28.22:164][330]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/GameController_Blueprint411EEA2E4809CB3CC7602D882AC3392C.tmp' to '../../../../../../UnrealProjects/Pinball/Content/GameController_Blueprint.uasset'
+[2019.02.05-13.28.22:446][330]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default124B780D49FC56830F587899AB891D00.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-13.28.22:484][330]LogFileHelpers: Saving map 'Minimal_Default' took 0.314
+[2019.02.05-13.28.57:340][154]BlueprintLog: New page: Compile GameController_Blueprint
+[2019.02.05-13.28.57:576][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameController_Blueprint" FILE="../../../../../../UnrealProjects/Pinball/Content/GameController_Blueprint.uasset" SILENT=true
+[2019.02.05-13.28.57:641][154]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/GameController_Blueprint8FF9DAC94529FEE121D6F39279829536.tmp' to '../../../../../../UnrealProjects/Pinball/Content/GameController_Blueprint.uasset'
+[2019.02.05-13.29.16:784][135]BlueprintLog: New page: Compile GameController_Blueprint
+[2019.02.05-13.29.17:019][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameController_Blueprint" FILE="../../../../../../UnrealProjects/Pinball/Content/GameController_Blueprint.uasset" SILENT=true
+[2019.02.05-13.29.17:086][135]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/GameController_BlueprintE96E50994D8A3D9BD67691AB1ECA3EEE.tmp' to '../../../../../../UnrealProjects/Pinball/Content/GameController_Blueprint.uasset'
+[2019.02.05-13.30.05:564][671]BlueprintLog: New page: Compile Minimal_Default
+[2019.02.05-13.30.05:581][671]LogBlueprint: Error: [Compiler PersistentLevel.Minimal_Default] This blueprint (self) is not a GameController_Blueprint_C, therefore ' Target ' must have a connection.
+[2019.02.05-13.30.05:981][671]LogBlueprint: Error: [Compiler PersistentLevel.Minimal_Default] This blueprint (self) is not a GameController_Blueprint_C, therefore ' Target ' must have a connection.
+[2019.02.05-13.30.05:982][671]LogBlueprint: Warning: [Compiler PersistentLevel.Minimal_Default] [4579,18] Compile of PersistentLevel.Minimal_Default failed. 1 Fatal Issue(s) 0 Warning(s) [in 7 ms] (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default)
+[2019.02.05-13.30.06:162][671]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default22934AE84B4FEC67351AE5BDED1461D5.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-13.30.06:201][671]LogFileHelpers: Saving map 'Minimal_Default' took 0.305
+[2019.02.05-13.30.06:206][671]LogBlueprint: Warning: [Compiler PersistentLevel.Minimal_Default] [4579,40] Compile of PersistentLevel.Minimal_Default failed. 1 Fatal Issue(s) 0 Warning(s) [in 641 ms] (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default)
+[2019.02.05-13.30.15:950][199]BlueprintLog: New page: Compile Minimal_Default
+[2019.02.05-13.30.16:424][199]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default2313B39448A8568C0D57409A1DBDE460.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-13.30.16:462][199]LogFileHelpers: Saving map 'Minimal_Default' took 0.305
+[2019.02.05-13.30.19:676][362]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default8337714A4E9B0F9CA7A4ADAF5BB185A3.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-13.30.19:716][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.02.05-13.30.19:801][362]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/Minimal_Default_BuiltDataCD31F83E409FF0F3BADC7BB23B2C3307.tmp' to '../../../../../../UnrealProjects/Pinball/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.05-13.30.21:713][476]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-13.30.21:742][476]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-13.30.21:742][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-13.30.21:742][476]PIE: New page: PIE session: Minimal_Default (05.02.2019 15:30:21)
+[2019.02.05-13.30.21:743][476]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.05-13.30.21:747][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004722s)
+[2019.02.05-13.30.21:748][476]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-13.30.21:748][476]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2019.02.05-13.30.21:748][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005642s)
+[2019.02.05-13.30.21:793][476]LogInit: XAudio2 using 'Lautsprecher (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-13.30.21:800][476]LogInit: FAudioDevice initialized.
+[2019.02.05-13.30.21:838][476]LogLoad: Game class is 'GameModeBase'
+[2019.02.05-13.30.21:839][476]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.02.05-14.30.21
+[2019.02.05-13.30.21:840][476]LogWorld: Bringing up level for play took: 0.001520
+[2019.02.05-13.30.21:853][476]LogScript: Warning: Accessed None trying to read property textObject
+	GameController_Blueprint_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameController_Blueprint
+	Function /Game/GameController_Blueprint.GameController_Blueprint_C:SetScore:0092
+[2019.02.05-13.30.21:853][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property textObject". Blueprint:  GameController_Blueprint Function:  Set Score Graph:  SetScore Node:  SetText (Text)
+[2019.02.05-13.30.21:854][476]LogScript: Warning: Accessed None trying to read property textObject
+	GameController_Blueprint_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameController_Blueprint
+	Function /Game/GameController_Blueprint.GameController_Blueprint_C:SetScore:0092
+[2019.02.05-13.30.21:854][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property textObject". Blueprint:  GameController_Blueprint Function:  Set Score Graph:  SetScore Node:  SetText (Text)
+[2019.02.05-13.30.21:855][476]LogScript: Warning: Accessed None trying to read property textObject
+	GameController_Blueprint_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.GameController_Blueprint
+	Function /Game/GameController_Blueprint.GameController_Blueprint_C:SetScore:0092
+[2019.02.05-13.30.21:855][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property textObject". Blueprint:  GameController_Blueprint Function:  Set Score Graph:  SetScore Node:  SetText (Text)
+[2019.02.05-13.30.21:855][476]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,636
+[2019.02.05-13.30.21:855][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-13.30.34:568][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-13.30.34:636][242]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-13.30.34:637][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.30.34:682][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-13.30.34:682][242]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-13.30.34:719][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.30.34:754][243]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.02.05-13.30.51:639][249]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-13.30.51:642][249]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-13.31.33:191][365]BlueprintLog: New page: Compile UIController
+[2019.02.05-13.33.07:203][911]BlueprintLog: New page: Compile UIController
+[2019.02.05-13.33.07:299][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIController" FILE="../../../../../../UnrealProjects/Pinball/Content/UIController.uasset" SILENT=true
+[2019.02.05-13.33.07:353][911]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/UIController24487CD44B919B11DBB6E6A13C80A32C.tmp' to '../../../../../../UnrealProjects/Pinball/Content/UIController.uasset'
+[2019.02.05-13.36.18:901][978]LogBlueprint: Error: [Compiler UIController] Internal Compiler Error: Tried to create a property ScoreText in scope SKEL_UIController_C, but another object (ObjectProperty scoreText) already exists there.
+[2019.02.05-13.36.18:901][978]LogBlueprint: Warning: [Compiler UIController] [4952,10] Compile of UIController failed. 1 Fatal Issue(s) 0 Warning(s) [in 1.456 ms] (/Game/UIController.UIController)
+[2019.02.05-13.36.19:484][999]LogBlueprint: Error: [Compiler UIController] Internal Compiler Error: Tried to create a property ScoreText in scope SKEL_UIController_C, but another object (ObjectProperty scoreText) already exists there.
+[2019.02.05-13.36.19:485][999]LogBlueprint: Warning: [Compiler UIController] [4952,68] Compile of UIController failed. 1 Fatal Issue(s) 0 Warning(s) [in 0 ms] (/Game/UIController.UIController)
+[2019.02.05-13.36.25:081][252]BlueprintLog: New page: Compile UIController
+[2019.02.05-13.36.25:086][252]LogBlueprint: Error: [Compiler UIController] Internal Compiler Error: Tried to create a property ScoreText in scope SKEL_UIController_C, but another object (ObjectProperty scoreText) already exists there.
+[2019.02.05-13.36.25:097][252]LogBlueprint: Error: [Compiler UIController] Internal Compiler Error: Tried to create a property ScoreText in scope UIController_C, but another object (ObjectProperty scoreText) already exists there.
+[2019.02.05-13.36.25:175][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIController" FILE="../../../../../../UnrealProjects/Pinball/Content/UIController.uasset" SILENT=true
+[2019.02.05-13.36.25:223][252]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/UIController6C330B81411BBCD9F3F1D7B3E5C1D35A.tmp' to '../../../../../../UnrealProjects/Pinball/Content/UIController.uasset'
+[2019.02.05-13.36.25:229][252]LogBlueprint: Warning: [Compiler UIController] [4958,43] Compile of UIController failed. 2 Fatal Issue(s) 0 Warning(s) [in 147 ms] (/Game/UIController.UIController)
+[2019.02.05-13.36.46:784][384]BlueprintLog: New page: Compile UIController
+[2019.02.05-13.36.46:878][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIController" FILE="../../../../../../UnrealProjects/Pinball/Content/UIController.uasset" SILENT=true
+[2019.02.05-13.36.46:927][384]LogSavePackage: Moving '../../../../../../UnrealProjects/Pinball/Saved/UIController48BCDE1F4EC907B1CFD23EBEE4695421.tmp' to '../../../../../../UnrealProjects/Pinball/Content/UIController.uasset'
+[2019.02.05-13.36.58:363][981]LogUObjectArray: Warning: Other object in slot
+[2019.02.05-13.36.58:363][981]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.05-13.37.00:834][981]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.472 s
+[2019.02.05-13.37.00:834][981]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: 
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: Stack: 
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ffe579581d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ffe5796809e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ffe5657bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ffe55c6769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ffe55c20917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ffe7a1c7c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ffe7a414393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ffe7a222d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ffe7a21ee18 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ffe7a21e483 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ff644f37094 UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ff644f4596c UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ff644f459ea UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ff644f548da UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ff644f5659a UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ffeb2243034 KERNEL32.DLL!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: [Callstack] 0x00007ffeb27f3691 ntdll.dll!UnknownFunction []
+[2019.02.05-13.37.00:835][981]LogOutputDevice: Error: 
+[2019.02.05-13.37.00:842][981]LogStats:                SubmitErrorReport -  0.000 s
